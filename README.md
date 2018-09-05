@@ -10,3 +10,10 @@ Python packages:
 -Numpy
 -OpenCV
 -speech_recognition
+
+1. Basic Math
+Adds 2 floats in Python, return output to LabVIEW.
+2. Calling a cloud service
+Call the google speech recognition API, and recognizes speech from wav file.
+3. Face tracking with OpenCV
+Save webcam images to jpg, use OpenCV to detect faces, and return face coordinates to LabVIEW
